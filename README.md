@@ -15,6 +15,7 @@ The app ensures a seamless user experience, allowing users to browse and search 
 
 ## **App Layout**
 
+<img width="363" height="631" alt="image_2025-11-11_214450935" src="https://github.com/user-attachments/assets/5e1cb637-927b-47b6-a056-ccddd549a6e1" />
 
 
 This app contains a single main screen demonstrating the core architecture concepts:
@@ -84,6 +85,7 @@ Manages app state including the displayed list of users and the search query. �
 ### **UI Components**
 - **`UserScreen.kt`** → Displays the full list of users in a scrollable `LazyColumn`; handles the `OutlinedTextField` for search input.  
 - **`UserListItem.kt`** → Displays a single user's **ID, Name, Email, and Phone Number**.
+<img width="386" height="861" alt="image_2025-11-11_214616508" src="https://github.com/user-attachments/assets/7be1540f-ceb5-4f7d-889e-c636aa0a1a02" />
 
 ---
 
